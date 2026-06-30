@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hiking.gggpick.com/sitemap.xml
